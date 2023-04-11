@@ -1,19 +1,18 @@
 [
-    {
-        "name": "sample-package",
-        "friendlyName": "Sample package",
-        "description": "This is a sample package.",
-        "author": "Sample user (https://example.com)",
-        "category": "other",
+{
+        "name": "fe2dos",
+        "friendlyName": "Frontier: Elite II",
+        "description": "DOSBox package of Frontier: Elite II, modified by Frontierverse. Cracked, patched, and ready for liftoff.",
+        "author": "Packaged by turtle dude | Original game by David Breben",
+        "category": "entertainment",
         "version": 1.0,
         "feature_requirements": [],
-        "min_os_version": 2.2776,
-        "max_os_version": 9999,
+        "installedSize": 6889129,
+        "downloadSize": 6746568,
+        "min_os_version": 300000,
         "depends": [],
+        "packageRoot": "$REPO_PATH$/dist/f/fe2",
         "iconFiles": {
-            "32x32": "$REPO_PATH$/dist/s/sample-package/icon32.png",
-            "16x16": "$REPO_PATH$/dist/s/sample-package/icon16.png"
-        },
-        "packageRoot": "$REPO_PATH$/dist/s/sample-package"
-    }
+            "32x32": "$REPO_PATH$/dist/f/fe2/icon32.png"
+}
 ]
