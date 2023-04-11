@@ -1,16 +1,19 @@
-{
-        "name": "fe2",
-        "friendlyName": "Frontier: Elite II",
-        "description": "The classic DOS game DOOM (shareware version).",
-        "author": "David Breben",
-        "category": "entertainment",
+[
+    {
+        "name": "sample-package",
+        "friendlyName": "Sample package",
+        "description": "This is a sample package.",
+        "author": "Sample user (https://example.com)",
+        "category": "other",
         "version": 1.0,
         "feature_requirements": [],
-        "installedSize": 2380475,
-        "downloadSize": 2382573,
-        "min_os_version": 300000,
+        "min_os_version": 2.2776,
+        "max_os_version": 9999,
         "depends": [],
-        "packageRoot": "$REPO_PATH$/dist/f/fe2",
         "iconFiles": {
-            "32x32": "$REPO_PATH$/dist/f/fe2/icon32.png"
-        }
+            "32x32": "$REPO_PATH$/dist/s/sample-package/icon32.png",
+            "16x16": "$REPO_PATH$/dist/s/sample-package/icon16.png"
+        },
+        "packageRoot": "$REPO_PATH$/dist/s/sample-package"
+    }
+]
