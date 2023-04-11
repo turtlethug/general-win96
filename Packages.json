@@ -14,6 +14,6 @@
         "packageRoot": "$REPO_PATH$/dist/f/fe2",
         "iconFiles": {
             "32x32": "$REPO_PATH$/dist/f/fe2/icon32.png"
-}
+},
 }
 ]
