@@ -10,7 +10,7 @@
         "min_os_version": 300000,
         "depends": [],
         "iconFiles": {
-            "32x32": "$REPO_PATH$/dist/f/fe2/icon32.png",
+            "32x32": "$REPO_PATH$/dist/f/fe2/icon32.png"
         },
         "packageRoot": "$REPO_PATH$/dist/f/fe2"
     }
